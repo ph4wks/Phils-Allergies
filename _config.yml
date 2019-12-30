@@ -1,5 +1,4 @@
 # Site Settings
 locale                   : "en-UK"
 title                    : "Phils Allergies"
-title_separator          : "-"
 is_project_page          : false
