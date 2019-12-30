@@ -2,5 +2,3 @@
 theme                    : jekyll-theme-architect
 locale                   : "en-UK"
 title                    : "Phils Allergies"
-github                   :
-  is_project_page        : false
