@@ -7,9 +7,9 @@
 ### Dairy ###
 **NOTE:** This is nothing to do with Lactose
 
-| Food          | Alternatives  | Notes         |
-| ------------- |:-------------:| -------------:|
-| Cows Milk     | Alpro Soy (Unsweatened)   |   My personal favourite  |
+| Food                 | Alternatives              | Notes                         |
+| :------------------- |:--------------------------| :-----------------------------|
+| Cows Milk            | Alpro Soy (Unsweatened)   |   My personal favourite       |
 
 
 
