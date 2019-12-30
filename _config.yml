@@ -1,5 +1,6 @@
-layout: page
-theme: jekyll-theme-architect
-is_project_page: false
-title: "Phil's Allergies"
-
+# Site Settings
+locale                   : "en-UK"
+title                    : "Phils Allergies"
+title_separator          : "-"
+name                     : &name "Phil Hawkshaw"
+description              : &description "What I can and can't eat"
