@@ -4,5 +4,4 @@ title                    : "Phils Allergies"
 title_separator          : "-"
 name                     : &name "Phil Hawkshaw"
 description              : &description "What I can and can't eat"
-github                   :
-  is_project_page.       : false
+is_project_page          : false
