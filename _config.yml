@@ -1,4 +1,5 @@
 # Site Settings
 locale                   : "en-UK"
 title                    : "Phils Allergies"
+theme                    : jekyll-theme-architect
 is_project_page          : false
