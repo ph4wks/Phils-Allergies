@@ -1,1 +1,1 @@
-<h1>Phil's Alergies</h1>
+<h1>Phil's Allergies</h1>
