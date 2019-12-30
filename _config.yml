@@ -1,7 +1,6 @@
 # Site Settings
 theme                    : jekyll-theme-architect
-locale                   : "en-UK"
-title                    : Phils Allergies
-description              : What I can and cant eat... and some alternatives
+title                    : Phil's Allergies
+description              : What I can and can't eat... and some alternatives
 github:
   is_project_page        : false
