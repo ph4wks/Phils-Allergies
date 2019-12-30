@@ -1,6 +1,6 @@
 # Site Settings
 theme                    : jekyll-theme-architect
 title                    : Phil's Allergies
-description              : What I can and can't eat... and some alternatives
+description              : What I can and can't eat...
 github:
   is_project_page        : false
