@@ -19,4 +19,4 @@ Since it was written into law that restaurants and producers in the UK must decl
 | Food | Alternatives | Notes |
 | :--- |:--- | :--- |
 | Cows Milk | Alpro Soy (Unsweatened) | My personal favourite |
-| Yorgurt | Alpro Soy (Unsweatened) | Including soy based - See Yeast Allergy |
+| Yorgurt | None | Includes soy based - See Yeast Allergy |
