@@ -35,3 +35,5 @@ Since it was written into law that restaurants and producers in the UK must decl
 | Grapes | | |
 | Blueberrys | | |
 | Mushrooms | | |
+| Over-ripe Bananas | | |
+| Marmite | | Includes all yeast extract |
