@@ -15,14 +15,16 @@ Since it was written into law that restaurants and producers in the UK must decl
 | Cows Milk | Cows Milk | Alpro Soy (Unsweatened) | My personal favourite |
 | Cows Milk Yorgurt | Yeast, Cows Milk | None | Includes soy based - See Yeast Allergy |
 | Soy Yorgurt | Yeast | None | Includes soy based - See Yeast Allergy |
-| Cheese | Cows Milk | Feta, Sheeps, Goats, Vegan Cheese | Although I'm not keen on goats cheese | 
-| Buffalo Cheese | Cows Milk | Feta, Sheeps, Goats, Vegan Cheese | Although I'm not keen on goats cheese | 
+| Cheese | Milk | Feta, Sheeps, Goats, Vegan Cheese | Although I'm not keen on goats cheese | 
+| Buffalo Cheese | Milk | Feta, Sheeps, Goats, Vegan Cheese | Although I'm not keen on goats cheese | 
 | Vinegar | Yeast | Especially Malt. Spririt Vinegar is ok in small doses |
 | Grapes | Yeast | | |
 | Blueberrys | Yeast | | |
 | Mushrooms | Yeast? | | |
 | Over-ripe Bananas | Yeast | | |
-| Marmite | Yeast | Includes all yeast extract | |
+| Marmite | Yeast | | Includes all yeast extract |
+| Stock Cubes | Yeast, Gluten | Kallo Gluten & Yeast Free Stock Cubes | Gluten free is not enough |
+| Beef Gravey Powder | Wheat, Dairy, Yeast | ASDA Free From Beef Gravey powder | |
 
 # Drink #
 
