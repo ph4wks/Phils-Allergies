@@ -13,16 +13,16 @@ Since it was written into law that restaurants and producers in the UK must decl
 | :--- |:--- |:--- | :--- |
 | Wheat | Gluten | |
 | Cows Milk | Cows Milk | Alpro Soy (Unsweatened) | My personal favourite |
-| Buffalo Cheese | Cows Milk | |
 | Cows Milk Yorgurt | Yeast, Cows Milk | None | Includes soy based - See Yeast Allergy |
 | Soy Yorgurt | Yeast | None | Includes soy based - See Yeast Allergy |
-| Cheese | Feta, Sheeps, Goats, Vegan Cheese | Although I'm not keen on goats cheese |
+| Cheese | Cows Milk | Feta, Sheeps, Goats, Vegan Cheese | Although I'm not keen on goats cheese | 
+| Buffalo Cheese | Cows Milk | Feta, Sheeps, Goats, Vegan Cheese | Although I'm not keen on goats cheese | 
 | Vinegar | Yeast | Especially Malt. Spririt Vinegar is ok in small doses |
-| Grapes | Yeast | |
-| Blueberrys | Yeast | |
-| Mushrooms | Yeast? | |
-| Over-ripe Bananas | Yeast | |
-| Marmite | Yeast | Includes all yeast extract |
+| Grapes | Yeast | | |
+| Blueberrys | Yeast | | |
+| Mushrooms | Yeast? | | |
+| Over-ripe Bananas | Yeast | | |
+| Marmite | Yeast | Includes all yeast extract | |
 
 # Drink #
 
