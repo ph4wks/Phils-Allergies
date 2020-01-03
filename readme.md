@@ -17,12 +17,12 @@ Since it was written into law that restaurants and producers in the UK must decl
 | Cows Milk Yorgurt | Yeast, Cows Milk | None | Includes soy based - See Yeast Allergy |
 | Soy Yorgurt | Yeast | None | Includes soy based - See Yeast Allergy |
 | Cheese | Feta, Sheeps, Goats, Vegan Cheese | Although I'm not keen on goats cheese |
-| Vinegar | | Especially Malt. Spririt Vinegar is ok in small doses |
-| Grapes | | |
-| Blueberrys | | |
-| Mushrooms | | |
-| Over-ripe Bananas | | |
-| Marmite | | Includes all yeast extract |
+| Vinegar | Yeast | Especially Malt. Spririt Vinegar is ok in small doses |
+| Grapes | Yeast | |
+| Blueberrys | Yeast | |
+| Mushrooms | Yeast? | |
+| Over-ripe Bananas | Yeast | |
+| Marmite | Yeast | Includes all yeast extract |
 
 # Drink #
 
@@ -40,7 +40,5 @@ Since it was written into law that restaurants and producers in the UK must decl
 # Meals #
 *coming soon*
 
-| Drink | Alternatives | Notes |
-| :--- |:--- | :--- |
-|  | | |
+
 
