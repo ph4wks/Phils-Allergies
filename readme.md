@@ -20,3 +20,18 @@ Since it was written into law that restaurants and producers in the UK must decl
 | :--- |:--- | :--- |
 | Cows Milk | Alpro Soy (Unsweatened) | My personal favourite |
 | Yorgurt | None | Includes soy based - See Yeast Allergy |
+| Cheese | Feta, Sheeps, Goats, Vegan Cheese | Although I'm not keen on goats cheese |
+
+## Yeast ##
+
+| Food | Alternatives | Notes |
+| :--- |:--- | :--- |
+| Vinegar | | Especially Malt. Spririt Vinegar is ok in small doses |
+| Wine | Gin | All wine |
+| Beer | Gin | Including non-alchohol |
+| Whiskey | Gin | |
+| Brandy | Gin | |
+| Cider | Gin | |
+| Grapes | | |
+| Blueberrys | | |
+| Mushrooms | | |
